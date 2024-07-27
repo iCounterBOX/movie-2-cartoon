@@ -10,7 +10,7 @@ A python program to convert a movie / e.g. webcam video stream into cartoon styl
 
 As there are various methods for this, the software is designed so that other (filter) methods can also be easily tested.
 
-At the moment, adaptive threshould is mainly being tested here:
+At the moment, adaptive threshold is mainly being tested here:
 
 ![](Aspose.Words.9c0970f0-9366-40d9-b9bb-2d5ddc20c994.002.png)
 
